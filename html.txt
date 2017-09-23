@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="UTF-8">
+<link rel="stylesheet" type="text/css" href="bansal.css">
+<meta name="viewport" content="initial-scale=1">
+<title>Bansal</title>
+
+</head>
+	<body>
+		<header>
+		
+			<h1 id="overskrift">Most important heading here</h1>
+			
+			
+			
+		<nav>
+			<a href="https://www.w3schools.com/html/default.asp">HTML</a> |
+			<a href="https://www.w3schools.com/css/default.asp">CSS</a> |
+			<a href="https://www.w3schools.com/js/default.asp">JavaScript</a> |
+			<a href="https://www.w3schools.com/jquery/default.asp">jQuery</a>
+		</nav>
+		
+		</header>
+		
+		<div>
+		<section>
+			<h1 id="wwfsection">WWF</h1>
+			<p id="theworld">The World Wide Fund for Nature (WWF) is an international organization working on issues regarding the conservation, research and restoration of the environment, formerly named the World Wildlife Fund. WWF was founded in 1961.</p>
+		</section>
+		</div>
+		
+		<div>
+		<aside>
+			<h4 id="Epcot">Epcot Center</h4>
+			<p id="asidetekst">The Epcot Center is a theme park in Disney World, Florida.</p>
+			
+			<div id="outer-div">
+				<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut.</p>
+			<div class="inner-div">
+			<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut.</p>
+			</div>
+			</div>
+		</aside>
+		</div>
+		
+		
+			
+		<div>	
+		<article>
+			<h1>Google Chrome</h1>
+			<p>Google Chrome is a free, open-source web browser developed by Google, released in 2008.</p>
+		</article>
+		</div>
+		
+		
+		
+		
+		<div>
+		<footer>
+			<p id="tekstfooter1">Posted by: Hege Refsnes</p>
+			<p id="tekst">Contact information: <a href="mailto:someone@example.com">someone@example.com</a>.</p>
+		</footer>
+		</div>
+		
+		
+		
+		
+
+
+
+
+
+
+	</body>
+
+</html>
